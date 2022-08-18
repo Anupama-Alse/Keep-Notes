@@ -1,0 +1,27 @@
+body{
+  text-align:center;
+  background-color:#FFF38C ;
+}
+h1{
+  color:#293462;
+  font-family: 'Cookie', cursive;
+  font-size:60px;
+  margin-bottom:30px;
+}
+
+h2,h3,p{
+  color:#293462;
+  font-family: 'Signika', sans-serif;
+}
+#notes{
+  color:#293462;
+  font-family: 'Signika', sans-serif;
+  font-size:20px;
+}
+.card{
+  background-color:#FFCB42;
+}
+#addbtn{
+
+  margin-top: 10px;
+}
